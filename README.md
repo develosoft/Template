@@ -1,0 +1,2 @@
+# Template
+Menu Slider Footer
